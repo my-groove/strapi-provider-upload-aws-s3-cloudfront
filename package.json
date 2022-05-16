@@ -1,0 +1,34 @@
+{
+  "name": "@strapi/provider-upload-aws-s3-cloudfront",
+  "version": "1.0.0",
+  "description": "cloudfront integration of strapi's aws s3 upload provider",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1135.0"
+  },
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-groove/strapi-provider-upload-aws-s3-cloudfront.git"
+  },
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "strapi",
+    "cloudfront",
+    "cdn",
+    "cf"
+  ],
+  "author": "MyGroove Betriebsgesellschaft m.b.H.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/my-groove/strapi-provider-upload-aws-s3-cloudfront/issues"
+  },
+  "homepage": "https://github.com/my-groove/strapi-provider-upload-aws-s3-cloudfront#readme"
+}
